@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1876ba94.css",
+    "main.js": "/static/js/main.85427b9d.js",
+    "static/js/453.71a40740.chunk.js": "/static/js/453.71a40740.chunk.js",
+    "static/media/homeIcon.svg": "/static/media/homeIcon.d430ee5d6b0d17489d2a0ecd1e74e637.svg",
+    "static/media/footBall.svg": "/static/media/footBall.0f3cd4b04d297d70a093ebf62a4e7168.svg",
+    "index.html": "/index.html",
+    "static/media/ArrowRigth.svg": "/static/media/ArrowRigth.9f4ce5e1e22a4a285595894e65ec40aa.svg",
+    "static/media/ArrowLeft.svg": "/static/media/ArrowLeft.948da969d397f0df5e693e0732cab7a1.svg",
+    "static/media/ArrowDown.svg": "/static/media/ArrowDown.b3eecbc12ac6c6d3e537cfad746612cf.svg",
+    "static/media/filterIcon.svg": "/static/media/filterIcon.05440112fa9cf7c70de1536b92a91aff.svg",
+    "static/media/SelectTop.svg": "/static/media/SelectTop.63e0b4ddbb536c80114409f1f383079b.svg",
+    "static/media/avatar.svg": "/static/media/avatar.30e2bbc5412413290226ae8e717a29c0.svg",
+    "main.1876ba94.css.map": "/static/css/main.1876ba94.css.map",
+    "main.85427b9d.js.map": "/static/js/main.85427b9d.js.map",
+    "453.71a40740.chunk.js.map": "/static/js/453.71a40740.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1876ba94.css",
+    "static/js/main.85427b9d.js"
+  ]
+}
